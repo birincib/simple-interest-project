@@ -15,3 +15,4 @@ Instructions to install the project.
 
 Instructions to use the project.
 "This is a small typo fix." 
+"This is another small typo fix." 
