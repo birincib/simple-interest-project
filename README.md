@@ -14,3 +14,4 @@ Instructions to install the project.
 ## Usage
 
 Instructions to use the project.
+"This is a small typo fix." 
